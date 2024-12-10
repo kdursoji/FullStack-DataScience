@@ -1,0 +1,2244 @@
+=====================
+WELCOME TO NIT
+COURSE -- FULL STACK DATASCIENCE WITH GEN AI 
+START DT -- 25th Oct @ 10:30AM 
+Meeting ID: 2516 808 1094 pwd: 112233
+=====================
+
+welcom to nareshit
+1- once you join our whats app community my team will share 
+	drive link -- so that you can download and view all the files.
+
+2- text based model -- user write text -- model generate text  
+	multimodel  -- user write text -- model generate image, video, speech, music 
+
+3- online i will speak with if anyone has any question 
+
+4- LINKEDIN ID -->
+
+https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/details/experience/
+
+	LINKEDIN 
+	GITHUB
+	KAGGLE 
+	STACK
+	
+ working profession i will speak -- you can connect me linked 
+ 
+5- world is use chatgpt, gemin ai, llam3 
+	you develop it
+
+llm model 
+	chatgpt -- open ai -- microsoft 
+	gemini -- google ( google generative ai )
+	llama 3.2 -- meta ( facebook)
+	antropic -- amazon 
+
+llm model -- is part of the generativ ai 
+
+using help of generative (AI bert, transformer, archite)
+	llm model are developed
+	
+friday -->
+
+sunday -- workshop 
+
+
+data science -->
+	ml 
+	dl 
+	nn
+	
+global certificaiton
+
+transformer >
+
+	global certification 
+	
+youtube -- last day end up with NO MAN LAND 
+
+NON TECH -- INTERNSHIP 
+			INTERSHIP 
+			KEEP GIVING INTERVIEW 
+
+MASTER -- APPLY THE JOB 
+
+WORKING PROFE -- 
+	I WILL GIVE 
+
+what is name of the course
+text based model vs multi model 
+about naresh it 
+about my self introduction 
+
+***** 28th *******
+
+I want everyone to scan the qr code to join whats app group
+
+IT very hard to transit non-it
+non-it very easy to tansit to IT 
+
+LEARNIN THIS COURSE 
+
+DS WITH GENAI-- MINDBLW - 6MONTHS GUYS ( HARD FACT TRUE)
+
+	 JAVA -- 
+	 ANGULAR ---
+	 DS - NO DS  PYTHON CODE , UNDERSTAN USED CASE
+	 
+STEPS TO START OUR JOURNEY -->
+---
+ROADMAP OF THE COURSE -->
+--
+1- CHOOSED MY INTEREST (WHAT IS YOUR INTEREST)
+		DS IS VERY GOOD BEGINNE, EXPERIENCE, LEADER, CEO, CTO
+		GOVT EMPLY 
+		DS , DA, -- INCRESE IN THE MARKET 
+		JAVA, C, C++ --
+			10 LINE CODE 
+				2 LINE OF CODE 
+		PYTHON CREATED ONLY FOR NON TECHNICAL STUDENT 
+		
+2- PLANNING (6MONTHS PLAN )
+
+3- software entire datascience --
+	python	vs code
+			pycharm
+			anaconda
+			google colab
+
+4- BASIC PYTHON 
+	 PYTHON IDENFIER
+	 PYTHON DATA TYPE 
+	 OPERATOR 
+	 BIT WISE OPERATOR 
+	 INBUILD () & USER DEF()
+	 PYTHON DATA STRUCTURE
+
+5- data analysis project 
+	 NUMPY
+	 PANDAS
+	 SCIPY
+	 MATPLOTLIB
+	 SEABORN
+  5-6 PRACTICLE
+
+6- ADVANCD DATA (EDA)
+	EXPLARATORY DATA ANALYSIS
+		data impuation 
+		data cleaning
+		data tranformation 
+		raw data vs clean data 
+		raw data -- excel sheet has few missing values 
+		cleans data - excel sheet doesnot has missing value
+		DATA CLEANIN IS COMPLETE TO BUILD FUTURE PREDICTION MODEL 
+
+7- SQL ( EXCEL SHEET BORN FROM DATABSE )
+	EXCEL SHEET ARE RAW DATA -- IMPLEMENT IN OUR PROJECT TO CLEAN
+
+8- RESUME PROJECT - 2 
+
+9- STATSTICS 
+	DESCRIPTIVE STAT
+	INFERENTIAL STAT
+	ADVANCE STATS
+	
+10- ADVANCE PYTHON 
+		LOOPS -- (FOR ELSE)
+		CONDITIONAL  
+	USER DEFINE -- RECURSION,LAMBDA FUNCTION ( FILTER, MAP, REDUCE)
+		ALL THESE WE WILL APPLY INSIDE FUNC
+
+11- MACHINE LEARNING 
+		DATA PROCESSING 
+		SUPERVISED --
+			REGRESSION - 9 ALGORITHM
+			CLASSIFICATION - 9 ALGORITHM 
+		UNSUPERVISED 
+			CLUSTERING -- 3 ALGORITHM
+
+12- RESUME PREPRATION ( U CAN APPLY FOR JOB )
+	
+ ====== 3 MONTH( KGF-1) COMPLETED =========
+ 
+13- ARTIFICIAL INTELLIGENCE 
+	
+	TEXT DATA -- NLP( NATURAL LANGUAGE PROCESSING)
+		NLU 
+		NLG 
+		TRANSFORMERS -- HUGGING FACE 
+		NLTK , SPACY, GENSIM 
+	WEBSCRAPPING
+	API -- HOW COLLECT THE DATA FROM WEBSITE
+	
+14- PYTHON OOPS -->
+		CLASS , METHOD, OBJECT
+		INHERITENCE
+		POLYMORPHISM
+		ABSTRACTION
+	
+14 - DEEP LEARNING 
+		COLLECTION OF NEURAL NETWORK 
+			ANN (ARTIFICIAL NEURAL NETWORKD) -- DATA IS NUMBER
+				TENSORFLOW, KERAS, PYTORCH
+			CNN ( CONVOLUTION NEURAL NETWORK)
+				IMAGE, VIDEO, STREAMING LIVE VIDE DATA
+			RNN ( RECURANT NEURAL NETWORK)
+				ADVNCED NLP ( SPEECH  )
+					LSTM, BERT
+15 - MLOPS 
+
+16- SQL DATABASE 
+
+17- RESUME PREPARETION WITH HARD TOPIC 
+
+===== KGF -2 CMPLETED =======
+
+18 - GENERATIVE AI 
+	  FOUNDATION MODEL 
+	
+		GAN, CLIP, VQGAN, TRANSFORMERT 
+		ENCODER - DECODER
+		
+19- LLM MODEL 
+		OPEN AI -- CHAT GPT MODEL 
+		GOOGLE -- GEMIN
+		META - LLAMA 3.2 
+		ANTROPIC - CLAUD MODEL 
+
+	GOOGLE COLAB 
+
+20- AZURE GENERATIVE AI 
+
+21- TABLEAU 
+
+22- POWER BI 
+
+23 - EXCEL REPORTING 
+
+24 - REVIEW ALL THE COURSE FROM BEGING 
+
+25- FINAL RESUME 
+
+26- FEW OFFER I WILL OFFER 
+====
+COMPLETE ROAD MAP FOR 6 MONTH JORNEY 
+====
+
+datascience -->
+	ml backed code -- ai frontend we will create 
+	dl backedn
+	nlpt backed 
+	nn backenc 
+	
+	llm model -- gen ai front end 
+	transformer 
+
+INDEPTH ROADMAP COVERED 
+
+***** 29th *******
+
+how data create over the years 
+2025 -- inbuild memory | internal memory 
+	
+Internets --- Data Generats fom Internet 
+	text,
+	videos
+	images
+	speech 
+	craft enginee -- 1k yotta b 1sec 
+	live match 
+	streaming data 
+	text -- 
+	speech -- collection of text 
+	
+unstructured data = unlabelled data = unsupervised learning 
+
+what is mean by unstrcture data?
+
+full stack -- backend code + frontend 
+
+full stack data scientist 
+full stack gen ai
+
+***** 30th *****
+
+Fsds with genai (25th oct ) 
+ we just had 3 day only
+
+Topic we covered 
+
+	- about nareshit 
+	- nareshit placement drive 
+	- about my introduction & ping me in linkedin professional accunt
+	- yod need to set clear goal
+	- who can learn this course ( any one can learn )
+	- what prerequist required to learn this course
+	- what is ai & real life every day where we use this 
+	- 6months roadmap of this course 
+	- course syllabus & what are the main topic discussed
+	- you have my drive access
+		placement student 
+		youtube video for generative ai (experience)
+		roadmap slide 
+	- brand new batch 
+		mon - sat (10:30am - 12 pm)
+			2nd & 4th sat is holiday 
+	- althernative week i will scheudle mock test 
+	- duration of the course 6month 
+	- cost of the course admin will get back to you 
+		
+	
+tomorrow is diwali 
+	next class is on friday and saturday 
+	
+=================
+	
+learners who have laptop -- 
+	software installtaion video wiht basic code 
+		30min -- install it and update me by day after tomorrow
+		
+learner who do not have laptop --
+	new laptop --> 
+		8gb ram -- 16gb ram
+		512gb ssd - 1tb ssd
+		i5 core process
+		intel 
+	===== 
+	Nvidia grphics card 
+		llm model never work in cpu 
+			
+capstone project --> live project
+	alway live domain whihc has always live 
+
+BANKING DOMAIN 
+INSURANCE
+HALTHECARE
+SERVICE
+FINANCE 
+MANUFACTUREING
+SPORTS
+SCM
+FASHION 
+EDUCATION 
+	
+FREHSER -- 
+experinece -- new algorithm ,
+	I want experinece learner how everyday leranin integorate to organzation 
+experiece -->
+	20yr, 25yr
+ml algo -- dataset 
+
+fresher -- make your resume 6yr experience but how 
+technical conten look like 6yr 
+
+project we gonna work in future 
+
+easy level  --> 
+medium level == (exp = fresher)
+high level 	== (fresher overtake exp)
+	things would be clearn 
+	
+fresher
+mid exper
+exper
+leaders 
+
+data analyst
+business analyst 
+data scinetist 
+full stack datat scientist
+generative ai engineer
+llm modle developer 
+nlp develp 
+
+***** 1st Nov ******
+---
+Agenda for today session -->
+---
+introduce to google classroom 
+python introduction 
+why python is top 1 prograninge in the world
+python ide
+interpreter vs compiler
+overview again on how to install anaconda software
+python basic code onwards
+
+1st time learner & 2nd time learn i will take back up classes for 4days
+	I will share recording so that you can review 
+	
+1st - I will also share some on install software video 
+
+
+on daily basis you need notes, project, codes, task from me
+
+how do i share all the document to  10:30am batch 
+
+the learner who know python good
+
+I 80% stren of this batch 0 knowledge 
+
+====
+- revision for previous classes
+- i wll share the recording for 4 classes
+
+python is best programming to choose to build ds, ai, gen ai, llm  developer, prompt project
+
+== install the software 
+	👩‍💻Python Software Installation Process
+		Link: https://t.ly/F_VOW
+
+== I will tell you again how to install python software 
+
+1- Type google 
+2- Anaconda python 
+3- Enter your registered email
+4- Download clip -- downlod the software 
+5- Install the software (min space - 5gb) 
+6- start -- anaconda folder -- expand the folder 
+	anaconda navigator -- done 
+	anaconda command prompt -- 
+	jupyter notebook
+	spyder 
+	
+anaconda navigator is the hub of anaconda enterprise where 
+user or developer can launch any software by click it.
+base - root 
+
+---
+ANACONDA COMMAND PROMPT -->
+--
+ user or developer can install package or library 
+ user can write python code 
+ user or dev can upgrade or downgra library for specific project 
+
+---
+jupyter 
+---
+ write the code, run the code, debug the code 
+
+--- 
+spyder 
+---
+write the code, run the code, debug the code user can see the variable 
+	
+====
+anaconda
+	jupyter , spyder
+vscode
+pycharm
+google colab
+===
+database 
+	sqlite
+	mysql
+	dbeaver
+===
+bi tool -->
+	tableau
+	power bi
+==
+big data 
+	pyspark
+	hadoop
+	databricks 
+===
+cloud 
+	azur ai
+==
+generate 
+	excel 
+		vlookup
+		pivot 
+=== 
+version control 
+	git 
+===
+reporting tool 
+	jira 
+
+**** 2nd *****
+python introduction 
+python ide 
+python interpreter 
+python compiler
+start the basic code 
+
+=== PYTHON INTRODUCTION ====
+
+1- pytho is object oriented programin languare 
+	a = 5 | in memory we created object called a which store value 5
+
+
+2- python name coined from --
+		'complete monty python's flying circus'' - 
+		broadcasted in BBC channel
+
+3- Father of python - guido van rosam 
+	this guy he is workig as microsoft developer 
+
+4- python borrowed concept from c, c++, jave 
+	so thats why python is powerfull langau next 10yr
+ every year new python library introduce new feature to handle
+	generative & llm model & prompt engineering 
+	
+5- Python developed in NRI - (Netherland) by researcher 
+
+6- Java released on 1995. 
+	python was released on 1989 (but no one used at that time)
+		feb 20th 1991 - python first released date
+		
+7- every orgnization used now cuz ml, ai, pe, gen ai, llm developer
+
+8- 5day chatgpt -- create 1millin user 
+	backbone of chatgpt is AI & GENERATIVE AI
+
+9- 	everyone even client wants to write very less code
+
+10- pvm(python virtual machine) 
+
+11- python is dynamic programming language
+		no need to assign any datatpye, indentation after :
+		
+12- python cons -- we cannot used in mobile device 
+
+13- cpython , jpython, iron python, ruby python
+	bigdata & datascience  -- anaconda python
+	
+14- Python 1.0 introduce in jan 1994 -- Noorganization is working now
+	Python 2.0 introduce in oct 2000 -- Noorganization is working now
+	Python 3.0 introduce in Dec 2008, 
+	2016, 2017,---- latest version - 
+	3.6, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
+
+python introduce is completd
+
+=== python ide ==
+integrated development environment
+
+user write the code , run the code, debugg the code
+
+	jupyter notebook 
+	spyder
+	vscode 
+	pycharm 
+	
+==== python interpreter vs python compiler ====
+
+run the code line by line -- interpreter 
+whole code run at once -- compiler 
+
+python programming is --> BOTH interpreter  & compiler 
+
+
+=== python basic code ====
+
+python variabel or python identifier or python object
+
+identifier = variable = object 
+---
+syntax -->
+---
+ <identifier name> = value (data types)
+ 
+ value --> integer value | int datatypes
+			float value | float datatypes 
+			complex value | complex data types
+			string value | string datatypes
+			boolean value | bool datatypes 
+
+function() -- ends with()
+
+VARIABEL  - doesnot define with ()
+FUNCTION - define with ()
+
+***** 4th ******
+
+sesson we started just 5 days back 
+
+6th day -- 
+i will take the backup classes for you & i covere 5 day session
+
+i will share all the 5 day recording to you.
+
+we start python programmin for basic level 
+
+end of the class i will unmute for 1st time student if you have any question 
+----
+sat what are the topic i covered excel sheet 
+---
+full stack ds with genai, prompt engineer
+
+====== python identifier | python variable | python object
+
+identifier = variable = object 
+----
+syntax of identifier -->
+----
+(Identifier name = Variable) = value 
+
+v = 5 
+v - varibale 
+5 - value 
+
+print() or without print()
+
+when user has only 1 variabe --> not required 
+when code has more then 1 variable -- print() is requestion 
+
+====
+function()
+- inbuild function or buildin function 
+- user define function -- def keyword 
+====
+print() -- print the value of the identier or value
+id() - address of the memory location of identifier or value 
+
+# -- comment ( is it realyy important)
+
+join new comany -->
+	some one quit the job ( then you get exper job)
+	any project introduce ( they hired fresher)
+	
+prompt engineer 
+	1cr (prompt engineer intern) 
+	
+new job -- some one alree write the code 
+
+review the code # print # abstraction # inher 
+
+# today u write the code 
+
+-- new student ( backup classes)
+-- python intro, ide, inter vs complier
+-- print()
+-- inbuild funct() -- print(), id()
+-- identifier = variable = object
+-- # -- comment benefit of comment
+-- non techn how to memory the code (dont by heart)
+---
+RULES TO DEFINE PYTHON IDENTIFIER -->
+---
+
+1 - identifier is case sensitive 
+2- identifier is never start with digit 		
+3- no special charate is allowed 
+4- only _ is allowed 
+5- keyword will never be an identifier
+	keyword = reserved word (35)
+=====
+	'False', 'None',  'True',  'and',  'as',  'assert',
+	'async', 'await',  'break',  'class',  'continue',
+	'def',  'del',  'elif',  'else',  'except',  'finally',
+	'for',  'from',  'global',  'if',  'import',  'in',
+	'is',  'lambda',  'nonlocal',  'not',  'or',
+	'pass',  'raise',  'return',  'try',  'while',  'with',  'yield']
+=====
+	if any learner complet 35 keyword -- python programming is completed 
+6- identifier has no lenght limit
+=== pythoon identifier completed =====
+
+**** 5th *****
+
+if i share any document please check the extension
+
+pdf - .pdf 
+.ipynb -- (extension of code file how to open the )
+.py -- extension of code file 
+
+(identifier name) = value 
+
+what is identifier ?
+what is the rules to define identifier ?
+
+values == data types 
+integer value or int datatypes
+float value or float datatype
+string value or string datatype
+bool value or bool datatype
+complex value or complex datype 
+
+int datatypes = value without decimal  
+float datatypes = value with decmial 
+					only e letter is allowed 
+
+
+python software installed 
+	anaconda python --- bigdata & datascience, gen ai, 
+ptyhon ide -- vs code, pycharm, jupyter, spyder
+interpreter - execute code line by line
+complier - execute entire code at once
+identifer -- syntax, rules to define identifer
+fun():
+    4 indentiation 
+python is dynamic 
+
+7 session -- 1 day coding classes started 
+	
+number - (1, 2,3)  --> statistic numerical data
+	
+text - 'a', -- stats (categorical data)
+
+numerical data vs categorical data 
+
+	string -- '' || " " | ''' '''
+ ''' ''' -- use for multiline comments
+
+=== python data type we are completes
+
+TYPE CASTING ---> 
+	CONVERT ONE DATATYPE OTHER DATATYPES
+---
+ARGUMENT OR PARAMETER ===
+---
+FAM - VARIABLE 
+FAMILY() -- function without argument 
+
+family(m,d) -- 2 argument or 2 parameter 
+family1(m,d,s,d)
+
+function with argument 
+
+------
+add(x,y) - fun 2 argument 
+div() - fun no argument 
+mul(a,b,c) - mul with 3 argument 
+----
+--
+type casting -->
+--
+Steps to download class notes from google classroom -->
+---
+1 - google download winzip or winrar
+2- install winrar 
+3- click the file -- right click 3 dots
+4- download option - download
+5- rightclick - winrar - extract the file 
+
+****** 6th ******
+demo session we completed
+student who are new i will take the backup classes
+python identifier
+python data types
+
+---
+TYPE CASTING --->
+---
+1- Other data type to int  ---> 
+		string with text & complex cannot casting to int 
+		but rest of the data type we can able cast to int
+2- Other data type to float -->
+	string with text & complex cannot casting to float 
+	but rest of the data type we can able cast to float
+3- Other data type to complex
+	 string only numbers allowe also only 1 string is acceptable
+	 other datatype to complex 
+4- other data type to bool
+	we can casting from other data type to bool
+	non zero argument -- always give you true
+	zero arugment -- alwasy give you false
+5- other data type to string
+	we can casting from other data type to string
+
+=====
+PYTHON OPERATORS 
+---
+ARITHMETIC OPERATOR (+, -, *, /, //,  %, ** )
+ASSIGNMENT OPERATOR (=, +=, -=, *=, /=, //=)
+RELATIONAL OPERATOR ( using this operator for comparing)
+	> < >= <= == !=
+LOGICAL OPERATOR  and, or, not 
+UNARY OPERATOR -
+
+and table | or table | not table 
+	
+and table 
+ 1 & 1 is 1 rest of them are 0
+or table
+ 0 or 0 is 0 rest of them are 1
+ 
+
+=== placement drive (how we are interact with client)
+=== type casting 
+=== python basic operator
+
+
+1- Download winzip or winrar google(share you software now)
+2- click the file which i shared
+3- once you clicked -- 3 dots -- open the file new window
+4- download 
+
+**** 7th *****
+
+working on basic python - datatype, typecasting,identifier,python operator
+
+from today onwards i will give you access to upload your work in the google classroom
+
+after 2 weeks all your work you need to upload in github.com
+how to create github -- i will session on it. (15min)
+---
+Agenda for today topic -->
+---
+string --> done 
+indexing, slicing --> done 
+home work -- very powerfull
+	once you will practicle that code 
+python data structure 
+
+' ' | " " | ''' '''
+
+INDEXING --> python index begins with 0 (n-1)
+
+forward index --> left to right ( index start with 0)
+backward index --> right to left ( index start with -1)
+
+slicing --> : 
+: - print all elements or entire string 
+2:5 -- print values from 2nd index to 5th index (5-1)
+:5 -- print values starting to 5th index (5-1) 
+5: -- print the vales from 5th index to last 
+::-1 -- REVERS THE STRING 
+0:10:2 
+
+---
+ADVANCED SLICING -->
+---
+
+string is completed
+
+nlp -- text proceins 
+
+customer feedback analysis  -- capstone peoject 
+
+resume
+interview call -- nltk string lowe 
+ml model 
+1st roun clear 
+2nd roun 
+hr roun 
+
+3lpa -- 5mont ( 6lpa )
+1yr 10lpa 
+15lpa 
+--- stragetgy 
+being fresher just kick the job go gain more money 
+20lpa -- st 5yr 
+kick -- 25lp thing done 
+=========
+how natural langue created
+
+text preprocessing -  nlp models 
+
+social median
+yt comments
+wh chats
+
+user enter text to gpt model 
+
+gpt model covert text to vector 
+from internet it will find similar meaning from web
+
+generate text 
+
+generative ai models -->
+
+text based model -> user enter text model generate text  
+multi model --> user enter text generate video, image 
+
+open ai -->
+	dall e3 - user enter text model generate image 
+
+***** 8th ******
+---
+PYTHON INBUILD OR BUILTIN DATA STRUCTURE -->
+---
+DATA TYPES - INT, FLOAT, COMP, BOOL, STR
+DATA STRUCTURE -- COLLECTION OF DATA TYPES 
+MATRIX -- COLLECTION OF DATASTRUCTURE 
+
+PYTHON DATASTRUCTURE -->
+	LIST
+	TUPLE
+	SET
+	DICT 
+2 way use can create empty list 
+	l = []
+	l = list()
+	
+**** 11th ****** 
+
+NEW BATCH ( FSDS, GENAI, PROMPTENGINEER) 
+WE 11 DAYS SESSION WE ARE COMPLETDED 
+5DAYS -- WE DEMO
+	WHO LEARN THIS COURSE
+	WHO AM I 
+	COURSE SYLLABU, PLACE, ROADMAP, JOB MARKT
+	DEMO -- 
+	5 DAYS DEMO 
+
+6TH - 11 TH DAY ( WE JUSTED INTRODUCE PYTHON)
+	PYTHON INSTALL 
+		ANACONDA PYTHON --( BIG DATA & DATA SCINCE APPLICATION)
+	
+PYTHON IDENTIFIER
+	identifier name = value 
+
+rules to define python identifier -->
+	case sensitive 
+	_ is allowed
+	no special chara is allowed
+	keyword or researd words cannot be an identifier
+	never start with digit 
+	no length limit
+value also called as datatypes
+	int  - numerb without decimal ( a= 5) 5 is the values
+	float - petro = 110.56 (110.56) float value or 
+	complex - 1+2j ( 1-real part & 2 imaginary part) j=squre root of -1
+	str -- ' ' || " " | ''' ''' ( multiline comment)
+	bool -- True or False
+type casting 
+	convert from one datatypes to other 
+	all other datatype - int, float, str, bool, complex
+data structure 
+
+python operator ->
+	assginment operator
+	logical operator
+	arithmetic operator
+	unary operator 
+	relation operator 
+====
+not a problem at all -- revie the recording and complet the prevous codes 
+===
+
+data type vs data structure vs matrix 
+
+a = 5 || b = 5,6,7 || c = table ( row * column) 
+
+datatypes == user define only 1 value 
+data strucute == user defin more on value
+matrix = collection of datastrucute
+
+PYTHON DATASTRUCTURE -- list, tuple, set, dict 
+
+fun() 
+---
+LIST -->
+---
+append()  - add element or add value towards end of list
+remove() - remove the 1st element 
+copy() - copy from list to another list 
+for loop - display all the element from the list 
+
+pop() -- remove index level ( bydefaul will be last)
+remove() -- remove from elment wise 
+extend() -- exent one list to another list by pass an argument
+
+function argument -->
+	formal argument
+	actual argument 
+
+
+
+list is mutable or hashable 
+
+fam() -- fam without argument or without parameter 
+fam1(dad, mom) -- 2 argument 
+fam2(dad, mom, son, daughter) -- 4 argument
+
+parameter tunning --> 10   
+windoe 10 to windown 11 ( hyperparamet tunning)
+
+parameter tunning vs hyperparamenter tunning vs finetune
+
+
+have you ever finetune your llm model ? 
+what is the technquie you implment in your project to finetune 
+
+	meta allama
+		lora 
+		qlora 
+		
+first practicse is very importta
+
+listen -- go to the lab 
+	 
+3hr to complet 
+talk fix the bug 
+
+offline -- 
+                                                                              
+
+TURING.COM --> 
+
+GAIN SKILL FIRST -- 
+	CONSISTEN 
+
+
+fun():     4 indentation | 4 spaces  
+
+sort() -- has 3 argument
+chatgpt model trainedby -- 1 billion argument 
+	large language model 
+	
+***** 12th ******
+== TUPLE ==
+how to define empty tuple 
+
+list & tuple -- we are completed 
+
+set -- {} 
+
+github.com
+
+from today onwards my student -- what ever practicle 
+ MAKE SURE YOU NEED TO UPLOAD YOUR CODE IN GIT ACCOUNT
+ 
+---
+STEPS TO CREATE GIT HUB -->
+---
+1- LOGIN TO GITHUB.COM 
+2- SIGIN TO YOUR GMAIL 
+3- EVERYBODY HAS GMAIL -- SIGNIN TO GMAIL 
+4- MOBILE# VERIFICATION & GMAIL VERIFCATION 
+5- MAKE ALL UPLOAD FILES IN ONE FOLDER 
+5- YOU NEED TO FIND OUT IS --- REPOSITORY 
+6- every reposiraotry you need toseelct README FILE 
+7- https://github.com/kodigitaccount/PYTHON
+8- I want 10:30 am bathc to create git repo and 
+	from the day-1 upload all the files in your git 
+9- share in the classroom 
+
+RESUME IF YOU MENTION 1 PROJECT
+	https://github.com/kodigitaccount/PYTHON
+---
+professaion ->
+---
+git hub -- mandatroy (created)
+linkedin -- mandatiory (created)
+hackerrank.com 
+leetcode.com 
+geeksforgeek.com 
+---
+set -- user define similar data tyep then 
+		output should be printed in order way 
+	
+	
+set & dict -- both has to be declar {}
+but system internally take {} - dictionar
+
+s ={} 
+
+system autom dict not set 
+
+empty set  == set()
+empty dict = {}
+empty list =[]
+empty tuple =()
+
+***** 13th ******
+set operation -->
+--
+union operation --> | or .union()
+--
+intersection -->
+--
+recording ( review same topic )
+--
+set -->
+--
+superset - parent 
+subset  - child
+disjoint - neighbour
+
+while workn superset, subset , disjoint
+
+if user found common eelment in set then only you consider as parent -chile relation 
+user dint fin comon element alwasy it will get false 
+
+list, tuple, set is completed 
+
+
+
+1- WRITE  THE CODE AFTER THE CLASS BY SEE THE DOCUMENT 
+2- WRITE THE CODE WITH OUT SEE NOW  ( 2HR, 3HR , 4H) 
+3- AFTER 1 WEEK JUST VIEW IT 
+4- EVERY WEEK 
+5- 4HR (
+
+--
+python inheritence  -->
+--
+parent class
+child classe  
+
+child inhrie parenet
+parent never inherit child 
+---
+github-->
+---
+1- pyton identifier
+2- pytho data type 
+3- type casting
+4- list 
+5- tuple 
+6- set 
+7- dict
+8- basi python key 
+9.1 - nump 
+9.2 - numpy2
+10 - pad
+10.1 
+
+***** 14th *****
+
+Lets continue with basic python
+===
+I will explain later how to create python environment varible
+cmd - type python -- 
+any user cmd - python 
+===
+help() -- when you execture this code 
+	make sure user need to terminate work or else page will crash 
+	 type quit the prompt which create by help()
+===
+python no constatn we have only variable
+===
+range understand only 3 argument not 4
+=========
+NUMBER SYSTEM -->
+---
+BINARY -- 2 VALUE -- 0 & 1 ( base 2) -- 0b
+OCTAL -- 8 VALUE -- O to 7 (base 8 -- 0o
+DECIMAL -- 10 value -- 0 to 9 (base 10) -- 0x
+HEXADECIMAL -- 16 value -- (base 16) -- 0x
+		0,1,2,3,4,5,6,7,8,9, a, b, c, d, e , f 
+---
+bin(25) = 0b 11001 ( how it happend) 
+==== completed ====
+real time we will use many -- ipconfig
+=====
+1st -- temp veriable swap possible 
+2nd -- using +, - 
+3rd -- using binary number system 
+	5 -- 6(0b101)
+	6 -- 5 (0b111) 
+4th -- using xor operator
+5th -- (a,b = b,a)
+=== we understand 5 ways to swap variable 
+---
+BITWISE OPERATOR -->
+---
+COMPLEMENT(~)  ( -ve values)
+AND & ( and table)
+OR | (or table)
+XOR ^ xor table 
+LEFT SHIFT <<  (gain the bit)
+RIGHT SHIFT >> (loose the bit)
+
+in memory we cannot store -ve value 
+ ~10 
+bitwise operator we are completed 
+======= 
+interview -- discuss between 2 brin 
+
+ if your answer satisfy then 1st round clear
+ commumincation & way of explanitn speaking very very importan
+
+ever prokect data science , algorithm
+
+activae listenig & 3hr practise 
+
+**** 15th ****
+
+daily basis if you encounter with any question or everyqueison
+
+list down of the question 
+
+if user want to download any library or package or framework
+----
+steps to download librar -->
+----
+1- start - all - click anaconda folder - anaconda prompt 
+2- pip install pkgname or (conda install pkgname)
+	ex pip install numpy
+3- jupyter notebook -- cell - !pip install pkgname 
+	requirment alreay satisfied 
+
+=======
+package  = collection of module 
+module = collection of function 
+function == inbuild function & user define function 
+
+from dmart.clothing import jeans
+ml algorithm --> 
+from sklearn.tree import decissiontreeclassifier 
+=====
+* in cell -- kernal is busy -- stop the kernel
+
+import --
+
+35 python in keyword
+
+once you leanr all 35 keyword 
+
+if user not use import keyword
+
+=====
+import math - 1
+math.squr - 2
+math.po - 3
+math.floo - 4
+math.ceil - 5 
+====
+1 line of cell 
+from numpy import sqrt, power, fl, ce
+==
+
+import math 
+math.sqrt(24)
+--
+impot math as m
+m.sqrt(24)
+-
+from numpy import sqrt, floor, ceil ( math -- 30) 
+	only 3 function wok 
+-- 
+form numpy import * 
+	internally 30 function 
+---
+30-40 question 
+	test is conduct for self evalution ( 17day ) 
+	10:20 -- 10:45
+	vs code & pycharm 
+---
+input() 
+input() -- read only string 
+---
+input() -- products website( user name  & pwd (input()
+---
+why car has 5 gear 
+another car has 6 gear 
+why we need to walk left side 
+derive why gear starting from 1, 2, 3 
+
+whye 60% 1st divenin g
+why 90% distincice 
+
+2 * 1 = 2
+2 * 2 = 4
+
+inbuild function or buildin funct()
+anaconda python 
+python devloper or create ( he create load these concept in pythonc code
+
+
+python code == java code == c code 
+.net code == 
+
+string = char bo
+inbuild -- os alrey inwindow 
+
+
+
+input() -- how to work with type cast int 
+	input() we print index 
+
+complete  || digit 
+
+input() -- number
+	string with index 
+expression -- eval 
+
+pyhon is not completed 
+
+just we introduce to basic python ?
+adavnce pytho 
+oop pytho -->
+=======
+20th question -- a & c
+test fresher non tech (you take test now)
+
+==== NUMPY =====
+
+NUMPY == PACKAGE OR LIBRARY TO HANDLE MULTI DIMENSION ARRAY 
+1D -- 1 DIMENSION ARRAY 
+2D - 2 DIMENSION ARRAY 
+ND - N DIMINSSION ARRARY
+
+ARRAY -- TABLE ) (N. OF ROW * NO OF COLUMEN)
+
+NUMPY --> DATASTRCTRUCTR + MATH CALCULATION == POWER FULL LIBRAR IN DS , DA, BA 
+
+NUMPY --> NUMERICAL + PYTHON 
+
+NUMPY -- DATA ANALYST, IMAGE ANALYST, TEXT ANALYST, GENE AI, AI PRJECT (WE REQURED) 
+
+PIP INSTALL NUMPY 
+ANCONDA -- YOU NOT REQUIRED ( INTERNALY INBUILD) 
+
+pkg.__version__
+
+how to convert list to array
+
+np.arange() 
+	1st arugment < 2nd arg
+	
+NUMPY vs PYTORCH 
+
+NUMPY -- ARRAY
+PYTORCH -- TENSOR (PYTHON + TORCH) = PYTORCH 
+
+most of the student they will stop in middle
+
+	 you practicle 
+	 non technce -- recording 
+	 explaint -- youtube , chatgpt 
+	 divert like that 
+	 
+**** 18th *****
+
+what ever easy please finish rest of leave it 
+	keep the document with you.
+
+
+np.random.rand() -- it will get float values 
+
+randint() & rand()
+	np.random.rand() 
+	
+reshape() - elment must should calcuation
+
+slicing, indexing in numpy 
+
+: in numpy --> will give you rows 
+, in numpy --> wil give specific element 
+
+b[0:5] --> top 4 rows (0th, 1st, 2nd, 3rd , 4th row)
+b[0,5] --> disply the number from 0th row & 5th columsn 
+
+numpy has 217 inbuild function 
+
+from numpy import *  --> import all the function from backend 
+from math import * 
+select * from table;
+
+mat[2,3]
+mat[row, column]
+
+how to print specific row, 
+how to print specific colum [:,3] -- print only 3rd column	
+
+n-1 formula will apply onlhen : is availabe 
+
+table -- 
+
+row wise -- forward & backwardslicing  (horizontal
+column wise -- forwar & backward (vertical )
+
+MASKIN OR FILTER 
+
+NUMPY -->
+by listening the classes you never get job 
+listen -- once you 
+
+**** 19th *****
+
+NUMPY is one powerfull library in ds journey 
+
+1- pick any images or download any images from google
+2- image will converted to pixel
+3- range of pixel 0-255
+4- matplotlib -- library for visualization 
+ 
+
+1- open a new jupyter
+2- import numpy as np 
+3- import matplolib.pyplot as plt
+4- matplotlib inline
+
+what if i dint show you the project 
+	underst side by side 
+		data agument -- deep learning 
+
+main key concept of the project -->
+
+1- image will convet to array
+2- when araay values are change -- graphase change 
+3- how we change array value 
+4- 3d channel -- how red, green, blue can detected from image.
+5- matplolatib.colormap
+6- PIL -- to read any image ( jpeg, jpg, png) -- PIL 
+
+we get error ..
+project -- 1 yr 
+we get bug 
+
+10yr -- another comapanyt ( next day) 
+
+system is difern
+numpy, pandas in os 
+======
+NUMPY
+SCIPY
+MATPLOTLIB
+PANDAS
+SEABORN 
+
+=====
+https://matplotlib.org/stable/users/explain/colors/colormaps.html
+=====
+**** 20th ****
+
+DATA ANLAYST, DATASCINET -- 4 LIBRARY IS MANDATORY 
+	 ML , NLP, DL 
+
+NUMPY -- hanlde nd array 
+PANDAS -- use for dataframe 
+MATPLOTLIB -- use for visualization 
+SEABORN -- statistic visualization , distribution plot 
+
+**** 21st *****
+--
+business story telling -->
+--
+
+client - espn -- share  ipl dataset to NIT 
+		find trends, insight, pattern from the dataset 
+		
+organization - nit 
+	ipl dataset analysis ( data analysis)
+	
+10:30am student -- data analyst  
+
+
+datat scienceit, ai, ml, nlp, gen ai, promp
+
+busines analyst & business analyst 
+data scientst 
+
+easy 
+medium 
+hard 
+
+
+intern 30 min 1 hr
+1hr 2hr 
+2hr 4hr 
+
+listeicin g
+practicle 
+code -- confident 
+confident -- give you placement 
+
+
+data analyst -- analys the historical data 
+	business, python, sql, table, power, stats, ml intro,excel
+
+Business anlayst -- analyst the business
+			talk to client, sql database, review data , 
+			powerbi, tableu, excel, document pre 
+			
+data scientist -- ba + da + predictive model 
+				solve the company problem 
+	
+--
+data anlyst project --> ipl data anlaysti project
+--
+1- copy the dataset which i post in the google classroom
+2- Salary | Games | Point 
+3- linestyle or ls: {'-', '--', '-.', ':', '
+
+
+**Markers**
+
+=============   ===============================
+character       description
+=============   ===============================
+``'.'``         point marker
+``','``         pixel marker
+``'o'``         circle marker
+``'v'``         triangle_down marker
+``'^'``         triangle_up marker
+``'<'``         triangle_left marker
+``'>'``         triangle_right marker
+``'1'``         tri_down marker
+``'2'``         tri_up marker
+``'3'``         tri_left marker
+``'4'``         tri_right marker
+``'8'``         octagon marker
+``'s'``         square marker
+``'p'``         pentagon marker
+``'P'``         plus (filled) marker
+``'*'``         star marker
+``'h'``         hexagon1 marker
+``'H'``         hexagon2 marker
+``'+'``         plus marker
+``'x'``         x marker
+``'X'``         x (filled) marker
+``'D'``         diamond marker
+``'d'``         thin_diamond marker
+``'|'``         vline marker
+``'_'``         hline marker
+=============   ===============================
+
+**Line Styles**
+
+=============    ===============================
+character        description
+=============    ===============================
+``'-'``          solid line style
+``'--'``         dashed line style
+``'-.'``         dash-dot line style
+``':'``          dotted line style
+=============    ===============================
+
+Example format strings::
+
+    'b'    # blue markers with default shape
+    'or'   # red circles
+    '-g'   # green solid line
+    '--'   # dashed line with default color
+    '^k:'  # black triangle_up markers connected by a dotted line
+
+**Colors**
+
+The supported color abbreviations are the single letter codes
+
+=============    ===============================
+character        color
+=============    ===============================
+``'b'``          blue
+``'g'``          green
+``'r'``          red
+``'c'``          cyan
+``'m'``          magenta
+``'y'``          yellow
+``'k'``          black
+``'w'``          white
+=============    ===============================
+
+xticks - xaxis
+yticks - yaxis 
+
+if the graphs are more we need to connect to business intellgience tools
+
+python is good for data cleaning 
+if the graph is more then highly recomment learn bi tool
+
+tableu -- out of india
+powerbi -- india 
+---
+this course light 
+---
+advance 
+
+mid -- give up 
+
+exper -- stay with me 
+fresher -- fun ( give nup funa)
+
+**** 25th *****
+
+numpy -- 257 function 
+	work on easy one & tought one do it later
+
+numpy basci numpy practicle
+
+ipl data analysis project
+===
+PANDAS -->
+===
+NUMPY -- ND ARRAY , ARR_TO_IMG, IMG_TO_ARR
+PANDAS -- DATAFRAME 
+MATPLOTLIB -- VISUALZIATION
+SEABORN -- STATSTICS VISUALZIATION
+SCIPY  - SCIENTFIC PYTHON ( STATS, TIME SEARIES)
+
+null - cell is empty
+non null - no missing vlaue 
+
+excel sheet -- number or text 
+
+number - numerical data 
+text - categorical data 
+
+dataset == numerical+categorical data 
+
+pandas system alwasy bydefault consider categorical data - object 
+so do we needt object to categorical 
+
+
+never ever remove any null value 
+but we fill null values with eda technique 
+	transformer will introduce on eda part 
+
+transformer --- transfer learning 
+transfer learning in nlp --bert, gpt , t5 mode
+transfoerm learning in computer vision -- imagenet, resnet, vgg16, vgg19 
+
+RAW DATA -- dataset which contains missing value 
+CLEAN DATA -- dataset which doesnot contain any missing value 
+
+convert raw data - clean data -- ( data analyst using python)
+after convert clean data -- go for predictive model 
+predictive model - deployment 
+deplyment - website will create
+website -- will laucnh in the company webstei
+customer use the website 
+customer pay money -- compay will get benefit 
+
+irctc.com 
+3yr back -- probabiliyt of ticket confirmation 
+now -- paytme, -- 80% -- then only you will book the tickest 
+
+frontend -- irctct ( small tab  80% yes) 
+	irctc -- pro
+	naive bayes algorithm ( bayesian theorem) 
+	
+to build these project 
+	 numpy, pandas 
+
+DATA ENGINEERING
+
+DATA ANALYST -- will always take care of structured data
+DATA ENGINEER -- will always take care unstre ( video, straming, live, image)
+DATA SCIENT -- PREDICTIVE MODEL ( 80% PROBABILITY) 
+
+.describe() -- understan only numberical value or numerical information 
+
+if you wante to get describe for categorical you have split to categroical then you need to find describe
+
+**** 27th *****
+
+I upload the csv file in google classroom & please download
+open a new notebook
+
+
+BPL --BELOW POVERTY LINE (50K) PER YEAR 
+APL -- ABOVE POVERTY LINE (1L) PER YEAR
+
+describe() -- we use this function for descriptive stats
+	it will apply bydefault to numerical only
+
+
+key point - how to change column name from the datafram
+.transpose() - convert rows to columns
+we alredy learnt how to divide the dataset to categorical & numerical 
+
+dataset -- categorical 
+dataset -- numerical 
+
+practicle how to do multiplcation 
+
+axis -0 : row
+axis -1 : column
+
+1- where interuer <2 ( govt need to halp on eduction)
+
+	df.internet < 2
+
+2- can you finout the country whose birthrate is > 40 
+
+3- can you display the country which satisfy 
+	intern < 2 & birthraet > 40 
+4- unique() & nunique()
+	
+upto this revise what are topic we discussed
+
+	1- business ( country gdp analsysi)
+	2- import the dataset
+	3- basic pandas function
+		len(), head(), tail(), info(), describe(), isna(), isnull()
+	4- how to chnage the attribute as per the business rquirement 
+	5- how to add column along with math multiplication 
+	6- how to drop column from the dataframe
+	7- transpose() along with describe (row - columns) & colum -rows
+	8- condiion internetet < 2 & birthrate>40 
+	9- unique() & nunique()
+		
+		
+	organization 2 types
+	
+	service based -- project TAT(TURN AROUND TIME) 
+			5 MONHT OR 1 YRS
+		CENTRAOL GOVT -- INFOSYS ( 5MONTHS) 
+	====
+	if infosys complete the project withn 5 monht ( infosys to money client)
+	if did not submit the project withing 5 month 
+		govt will pay information (penalty) 
+	====
+	agile
+	====
+		product based -- mrf product ( mrf)
+	but now day high package. 
+
+*** 28th *****
+plot the graph using 1 variable - univariate analysis
+
+distplot() - distribution plot
+displot() - histogram
+plot the graph using 2 variable is call bivariate analysis 
+
+outlier -- in stats outlier is the datapoint which is very far from 
+other observation 
+
+outlier is very dangerous 
+outlier will impact  machine learning algorithm
+outlier also called as -- anomaly detection 
+
+what is outlier ? 
+how to detect outlier ? 
+	by visualization -- boxplot, scatter plot 
+
+30k & 1L 
+
+data analyst project -- practicle 
+						
+basic python we are completed
+numpy -- many project ( assingme work to you)
+		assigned interview question
+pandas -- many project using 
+	kaggle.com
+matplotl -- one document to practicle 
+	matplotlib  ( image) to numpy 
+seborn -- lmplot | histo| dist |dis 
+
+data anlyst & ba project is complet without pd, np, sns, plt 
+
+
+i will give assignment 
+	most of the sute not listen the classses
+
+python split 
+
+gpt -- 
+=====
+kaggle.com ( EVERY DATA SCIENTIST, DATA ANLAYST, BUSINESS ANALYST)
+HUGGINGFACE.COM
+UCI.COM
+=====
+1 - DATA ANALYST PROJECT & SEABORN INTRODUCTION 
+2 - RAW DATA - CLEAN DATA USING PYTHON SPLIT()
+3 - CRATEA KAGGLE ACCOUNT
+
+EDA -- PARENT OF MACHINE LEARNING 
+ML - CHILD
+NLP
+DL 
+GENAI 
+NOT REVIEW THE CLASS -- AMAZING
+
+**** 29th Nov *****
+
+offline team & online team please try 
+any project when you 
+date format & time format 
+
+---
+AGENDA -->
+---
+1- Introduce to kaggle.com --> i want team to complete 44 line 
+2- matplotlib --> do not requir any dataset to import 
+3- read the json , xml , html using pandas
+4- interview question 
+5- 10:30 student to complete pending task, project 
+
+
+== every day i wiill assign some task 
+	task is very hard to work -- i dont assign 
+	
+	
+1M - 10L 
+10M - 1CR
+20M - 2CR 
+
+1JOB -- 1L
+1JOB- 1CR 
+DAY -- PASSWOUT 
+	SO SPEACI ABOUT YOU COMPAYR HIRE YOU 
+
+PLEAE SERIOUS -- WORK 
+10 OPENS 
+
+3 OPEN -- 7 OPENING CHATGPT, COPILOT 
+
+
+6MONTH -- BEST ONE 
+---		
+STEPS TO WORK KAGGLE.COM -->
+---
+https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai
+
+how to donwload dataset from kaggle.com
+
+huggingface.com --> llm model unstrucute data store in the website 
+kaggle.com - sturucute, data ,( ml, data anlysti, busine analy)
+
+relationabl table -- RDBMS 
+
+DATA ANALYSIS IN EXCEL -- LIMITED 
+THATS SQL, PYTHON 
+MANGER -- EXXCE 
+
+REATIAONAL TABLE - 1 DATASET CONET WITH ANOTHER ATASET 
+	COMMON ATTEIBUTE IS RELATION TABLE 
+pandas series 
+
+
+
+us -- customer loan 
+indian -- customer loand 
+
+us bank -- customer 
+
+name age salary cibil gen incor amut 
+
+plot -- visaulie only 1 graph 
+subplot -- more then one graph 
+
+import matplot.pyplot as plt
+
+read_csv
+
+read_xml 
+rad_excel file 
+
+**** 30th *****
+
+EDA -- MONDAY
+---
+ADVACNED PYTHON -->
+---
+
+IDENTIFIER
+DATA TYPE
+DATA STRCUTE
+TYPE CASTING 
+PYTHON OPERATOR, BITWISE OPERATOR, NUMBER SYSTEM
+INPUT() -- STRING 
+	EVAL() -- EXPRESSION
+	INPUT() -- CLI 
+MATH()
+FROM AS 
+IMPORT * 
+* - BYDEFAULT WE ARE CALLING INBUILD FUNCTION 
+NUMPY
+PANDAS
+MATPLOT 
+INTRODUCE TO SEABORN 
+
+
+MEMORY UNIT -- VARIABEL ARE STORE IN MEMORY 
+ARITHMETIC UNIT -- ADD, SUB, MUL, DIV
+LOGIC UNIT -- COMPUTER NEED TO THINK
+
+CONDITIONAL STATMENT 
+IF
+IF ELSE
+IF ELIF ELSE
+NESTED IF 
+
+python is dynamaic programming language 
+
+by default datatyep print, 
+be default id
+: --- 4 spaces 
+
+
+in the real time never ever ever write multiple if 
+
+when user or developer write multiple if 
+	memory compline unncessaey check which is not required 
+		code perform slow -- deployment issue face
+		website -- user -- it slow 
+
+if 
+
+multipl if 
+
+nested if -- if inside if is called nested if 
+
+when code has more then 2 condition --> 
+	nested if -- if inside if 
+
+if 
+if else 
+multiple if 
+nested if 
+
+if -- elif 	
+
+LOOPS -- 2 TYPE 
+		WHILE LOOP -- APPLY WHE YOU HAVE CONDITION  
+		fOR LOOP  -- APPLY DATATYEP, DATASTURCE 
+			break 
+			continue 
+			pass 
+	
+we learn if , if-else, if-elif-else, nested if 
+we keep inside the loops 
+we need to learn loop to feed inside function
+we need to learn function keep inside class & object 
+python is oops 
+
+========
+anaconda 
+	jupyter
+	spyder
+========
+ vs code 
+ pycharm
+========
+1 - google - vscode -- download -- window platform 
+2- Install the vs code 
+3- system cmd - you must need to check the file path location
+4- C:\Users\A3MAX SOFTWARE TECH>
+5- go to this location ( create folder -- AVS COD)
+6- open vs code - open folder location
+7- install extension for datascince project, data analyst, ba project
+	 AREPL for python
+	 autoDocstring - Python Docstring Generator
+	 Code Runner
+	 Data Wrangler
+	 GitHub Copilot
+	 IntelliCode
+	 Jupyter
+	 Notepad++ keymap
+	 npm Intellisense
+	 Office Viewer(Markdown Editor)
+	 PDF Viewer
+	 Python
+	 Python Image Preview
+	 SQLTools
+	 vscode-pdf
+	 YAML
+8- create new folder
+	add the py file or ipynb file
+	
+**** 2nd December ****
+system cmd prompt location == vs code prompt found terminal 
+
+EDA ( EXPLARATORY DATA ANALYSIS)
+
+DATA ANLYSIS IN EXCEL 
+DATA ANALYS IN PEN & PAPER ( 
+DAT AANLYST IN PYTHON 
+DATA ANAYSIS IN SQL 
+
+EDL - FOUNDATION OF ML JOURNEY 
+
+eda - ml concept never understn
+ml - nlp never
+nlp - dl , 
+gen ai 
+giveup 
+
+Architecture of proces sto create clean data to build predictive model 
+EDA we are implementing being a datascientist or data analyst
+
+LOCAL SERVER ( DMART, RELIN, MORE)
+MASTER SERVER (ACCENTURE)
+EVERY SERVER STORE RAW DATA 
+DATA ANALYST -- convert data cleaing or data cleansing 
+			-- raw data to clean data 
+while proce of converting raw data to clean data we must use 
+EDA TECHNIQUE (FEATURE ENGINEERING)
+FEATURE = VARIABLE = ATTRIBUTE = COLUMN NAME 
+---
+EDA 7 TECHNIQUE (FEATURE ENGINEERING TECHNIQUE-->
+---
+1- variable identification 
+2- univariate anlaysis
+3- bivariate analysis ( corelation) 
+4- outlier tretment 
+5- missing value treatment (numerical & categorical)
+6- variable transformation ( transformer)
+7- variable createion 
+
+1- variable identification 
+
+family --> 4 variable or 4 attributes or 4 feature  
+--
+father ( govt employe) -- House emi, schoo fee, other fees, vechicle emi 
+mother (house wife)
+son (3rd grade)
+daughter (1st grade)
+--
+FATHER = Dependent variable (dv) 
+mother = independent variable (iv1)
+son = independent variable (iv2)
+daugher = indevpendent variable (iv3)
+
+iv = non target attribute == non lableed attribute = 
+non predictive  variabe = x 
+ 
+dv = target attribute == labeled attribute= 
+ predictictive variable == y 
+
+father --> y
+mother --> x1 
+son --> x2 
+dauther --> x3
+
+y = x1 + x2 + x3
+
+y = m1x1+ m2x2+ m3x3 + c ( multiple linear regression algorithm equestion )
+y = mx + c (simple linear regression ) 
+
+variabel identification -->
+--
+independent variable -->  many (x1,x2,x3 --- xn)
+dependent variable --> one (y)
+--
+DATSET -- NUMERICAL (NUMBER) CATEGORICAL (TEXT) 
+--
+machine learning -->
+--
+REGRESSION - dependent variable is continuouse 
+CLASSIFICATION -- dependent variable is binary or category 
+CLUSTERING -- no depend variable, variable discrete 
+
+
+WHAT IS CONTINUOUS VARIABLE -->
+	variabel keep increse or decreasing continuous variable
+
+example of continuous variable -->
+---
+gold price 
+petrol price
+ev car price
+electricity bill 
+house price 
+dollar price
+stock price
+bitcoin prices 
+flight fare prices
+ticket price
+food cost price 
+
+regression projecs -->
+	price prediction using ml regression algorihtm 
+
+REGRESSION ALGORITHM -->
+---
+SIMPLE LINEAR REGRESSION 
+MULTIPLE LINEAR REGRESSION 
+POLYNOMIAL REGRESSION 
+SUPPORT VECTOR REGRESSION 
+K NEAREST NEIGHBOUR REGRESSION 
+DECISSION TREE
+RANDOM FOREST 
+XGBOOST REGRESSION 
+LGBM REGRESSION
+ANN REGRESSION 
+TIME SEREIS 
+
+ML DEVLOPER -- WORK AS BACKED WITH PYTHON CODE 
+	WITH FRAMEWORKD (SKLEARN + PYTHON CONCEPT) 
+
+
+CLASSIFICATION --> DV is binary or categoy
+
+win | loose (1 | 0) 
+spam | non spam 
+cat image | dog image
++ve review | -ve review 
+pass | exam
+profit | non profit
+hit | flop 
+yes | no 
+high | low
+
+classification algorithm  -->
+	logistic regression 
+	svm classifier 
+	knn classifier 
+	dt 
+	ensamble learning 
+	xgboost
+	naive bayes
+	ann classifier
+	lgbm classifier --> lgmb model 
+	
+every day we are 
+
+KEY POINT BEFORE ML MODEL -- DV 
+	DV IS CONTI -- REGRESSION 
+	DV IS BINARY -- CLASSIFICATION 
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+ 
+
+==== FRESHER 
+1hr Review the class 
+2hr python code 
+1hr sql code 
+1hr interview question prep 
+2hr for apply job 
+1hr freelancing work
+===
+
+
+====== TASK ======
+TASK-1: BASIC PYTHON 
+	IDENTIFIER + DATA TYPE + TYPE CASTING 
+TASK-2 : DATA STRUCTURE WE ARE COMPLETED
+		LIST, TUPLE, SET, DICT
+TASK-3 : work on string & sting manipuation 
+		 1st post in your linkedin ( commit to your git account)
+TASK-4 : CONVERT RAW DATA TO CLEAN DATA
+TASK-5 : READ EXCEL FILE, XML FILE
+			
+====== IQ PREP ======
+IQ1 -- 97 interview question on variable & data types 
+IQ2 -- PYTHON OPRATOR 
+IQ3 -- Numpy Interview question (6 section)
+
+====== PROJECT ======
+
+PROJECT-1 : Numpy Functionality ( 217 Numpy documentation)
+PROJECT-2 : Explore generated image creation with NUMPY, MATPLOTLIB & PIL 
+	https://www.youtube.com/watch?v=u-ym7BWHO-g
+PROJECT-3 : using openpyxl create excel sheet & visualize the graphs
+PROJECT-4: IPL data analysis using NUMPY, MATPLOTLIB 
+PROJECT-5: COUNTRY GDP ANALYSIS USING PD, PLT, NUMPY
+project-6 : IMDB movie data analysis using pandas 
+			https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai
+			I want team to completed till 44 line 
+project-7: Matplotlib for python
+
+
+
+
+
+
+====== RESUME PROJECT ======
+
+====== PYTHON CODE ======
+
+1- How to swap 2 variable without using 3rd variable?
+2- python program to chceck number is even number or odd number? 
+	
+
+
+
+
+**************
+Meeting Id: 2519 298 7720
+Password: 547819
+**************
+*Permanent Login Details* and *Google Classroom Notes access* , please fill out the form in the link below (this is required):
+Full Stack Data Science & AI @ 10.30 AM
+Link: https://forms.gle/y8256HutD9LUY1u66
+*************
+======
+NON TEHNINCAL LEARN HOW TO CODE -->
+======
+1st Rule - what ever code i will share on daily basis first 
+			see and practicse dont dont copy 
+2nd Rule - after 1 day dont see and write all code 
+			(2day to write)
+3rd Rule -- after 1 week or 10 day just dont write 
+		    view the code 
+4th rule -- just view the code after 1month 
+
+******* ADMIN DETAILS *******
+Online admin number 
+Mr.Naga babu--9063042468
+Mr. Prem -- 7997998954
+
+Offline Admin 
+Mr.ajay--79979 97808
+
+***** ONLINE MENTOR ******
+virtual lab  --> http://vlabs.nareshit.net/
+
+Gourav -->
+https://nareshit.zoom.us/j/87855910357 
+(Passcode: 112233)
+
+Chandan -->
+https://nareshit.zoom.us/j/86433658207 || 
+(Passcode-112233)
+
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+*****************************
+
+*******
+Follow this link to join my WhatsApp community: 
+https://chat.whatsapp.com/FQ2QepR0yMJJfS5GrsYFdS
+*******
+MY GOOGLE DRIVE LINK : 
+https://drive.google.com/drive/u/0/folders/1wxkHQkjo6CM7m7nxh_FcdbMHP3sXmMnL
+=====
+SOFTWARE INSTALLATION LINK -->
+=====
+https://www.youtube.com/watch?v=PhIAQ8rE2xc&list=PLVlQHNRLflP9GN5rc8sBWnrV53DWAzfdn&index=1
+https://www.youtube.com/watch?v=7HEke2aEND0&list=PLVlQHNRLflP9GN5rc8sBWnrV53DWAzfdn&index=2
+
+**********
+👉 Backup Video:
+Day-1: https://youtu.be/N7o3Q1lyiPE
+Day-2: https://youtu.be/jsmzbLTmPHk
+Day-3: https://youtu.be/m2_Ber5BaVQ
+Day-4: https://youtu.be/zq21RdWNjGs
+Day-5: https://youtu.be/smIQbOLBtwg
+Day-6: https://youtu.be/NCnzW8mfyKs
+Day-7: https://youtu.be/ddgjAg9euQ0
+Day-8: https://youtu.be/G3sAlQh6fiM
+Day-9: https://youtu.be/cDPYi3FRwAM
+Day-10: https://youtu.be/oAHO39CWR2A
+Day-11: https://youtu.be/XHphZN6ilZw
+
+📂 Drive Link: https://t.ly/rh-vC
+
+👩‍💻Python Software Installation Process
+Link: https://t.ly/F_VOW
+**********
+
+------
+REVIEW CLASSES OR BACKUP CLASSES -->
+------
+did you scan the qr code - did you join the community 
+
+today we complete just 10th classes 
+--
+day-6 onwar -- we started 
+1day , 2day -- sat & sun 
+---
+
